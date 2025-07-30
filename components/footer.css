@@ -1,0 +1,28 @@
+.footer_container {
+      width: 100%;
+  max-width: 1350px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.footer_items {
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.footer_item--right {
+    padding-top: 55px;
+    padding-bottom: 55px;
+    
+}
+
+.footer_item--right--text {
+    font-family: Poppins;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #8F95A5;
+}
